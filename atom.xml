@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sunmusk.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-09-03T01:54:55.691Z</updated>
+    <updated>2019-09-05T15:59:53.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sunmusk.github.io/"/>
     <link rel="self" href="https://sunmusk.github.io//atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://sunmusk.github.io//images/avatar.png</logo>
     <icon>https://sunmusk.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[spring mvc]]></title>
+        <id>https://sunmusk.github.io//post/spring-mvc</id>
+        <link href="https://sunmusk.github.io//post/spring-mvc">
+        </link>
+        <updated>2019-09-04T14:45:39.000Z</updated>
+        <content type="html"><![CDATA[<p>[TOC]</p>
+<h1 id="spirng-mvc-的请求图">spirng mvc 的请求图</h1>
+<p><img src="https://sunmusk.github.io//post-images/1567608341921.png" alt=""><br>
+<img src="https://sunmusk.github.io//post-images/1567610202220.png" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://sunmusk.github.io//post/hello-gridea</id>
